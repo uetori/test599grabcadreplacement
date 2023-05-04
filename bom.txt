@@ -1,0 +1,23 @@
+WCProducts
+https://wcproducts.com/products/25-sprockets
+	x6 - Chain in Tube > 17 Aluminum Double Sprocket 
+https://wcproducts.com/collections/belts-chain-gears/products/steel-hex-bore-gears:
+	x2 - 1/2" Hex Bore 22t Steel Gear (WCP-0735)
+	x4 - 1/2" Hex Bore 40t Pocketed Steel Gear (WCP-0177)
+	x2 - 1/2" Hex Bore 24t Steel Gear (WCP-0736)
+	x2 - 1/2" Hex Bore 32t Pocketed Steel Gear (WCP-0554), if unavailable (WCP-0173)
+https://wcproducts.com/collections/wheels-hubs/products/aluminum-wheels: 
+	x6 - Aluminum Wheel (4" OD x 1.5" WD, 1/2" Hex Bore) (WCP-0075)
+	x1 - WCP Wheel Tread Jig (WCP-0320)
+	X2 - Press Fit Drill Bushings (.196" Drill, Steel) (5-Pack) (WCP-0321)
+https://wcproducts.com/collections/systems-structure/products/versachassis:
+	x4 - WCP Cam (WCP-0882)
+	x2 - WCP Gearbox Bearing Block (#10 x 1.875" C-C) (217-3634)
+
+REV Robotics
+https://www.revrobotics.com/neo-pinions/
+	x4 - 20DP Neo Pinion Gear - 14 Tooth
+
+(COTS bearing blocks only)
+https://www.revrobotics.com/MAXSpline-Bearing-Blocks/
+	x4 - 2x1 MAXSpline Bearing Block
